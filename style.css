@@ -1,0 +1,30 @@
+#mybox{
+    width: 50%;
+    height: 300px;
+    border: 10px solid green;
+    background-color: rgba(0, 0, 0, 0.795);
+    color: green;
+    position: right;
+    font-style: oblique;
+    font-size: 30px;
+
+}
+input{
+    height:100px;
+    width:30%;
+    background-color: rgba(176, 176, 231, 0.753);
+    color: rgb(17, 16, 16);
+    border: 5px solid rgb(12, 12, 12);
+    text-align: center;
+    font-style: oblique;
+    font-size: 20px;    
+}
+button{
+    height: 30px;
+    width:10%;
+    font-style: oblique;
+    font-size: 20px; 
+    border: solid rgb(12, 12, 12);
+    background-color: rgba(0, 255, 234, 0.795);
+    
+}
